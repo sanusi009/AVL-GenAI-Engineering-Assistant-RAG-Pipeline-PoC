@@ -93,7 +93,7 @@ Documents (PDF / text / DB)
 
 | Component | Technology | Cost |
 |---|---|---|
-| LLM | Gemini 1.5 Flash | Free tier |
+| LLM | Gemini Flash Latest | Free tier |
 | Embeddings | sentence-transformers (local) | Free |
 | Vector store | FAISS (in-memory) | Free |
 | UI | Gradio (public share link) | Free |
