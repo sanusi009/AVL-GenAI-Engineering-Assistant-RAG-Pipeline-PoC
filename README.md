@@ -4,7 +4,7 @@
 > engineering knowledge — with vector search, evaluation metrics, and drift monitoring.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
-![Gemini](https://img.shields.io/badge/LLM-Gemini%201.5%20Flash-orange?style=flat-square)
+![Gemini](https://img.shields.io/badge/LLM-Gemini%20Flash%20Latest-orange?style=flat-square)
 ![FAISS](https://img.shields.io/badge/Vector%20Store-FAISS-purple?style=flat-square)
 ![Gradio](https://img.shields.io/badge/UI-Gradio-ff6b6b?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
